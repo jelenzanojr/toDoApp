@@ -13,7 +13,7 @@ class AppRouter extends StatelessWidget {
       child: MultiBlocProvider(
         providers: blocProviders,
         child: MaterialApp.router(
-          title: 'HidroLectura',
+          title: 'ToDoApp',
           theme: defaultTheme,
           themeMode: ThemeMode.light,
           routeInformationParser: BeamerParser(),

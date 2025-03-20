@@ -6,8 +6,6 @@ class SizeConfig {
   static late double screenHeight;
   static double? defaultSize;
   static Orientation? orientation;
-  static String version = '1.0.0';
-  static int buildVersion = 5;
 
   static const double kDefaultPadding = 16;
 
