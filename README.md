@@ -13,6 +13,13 @@ Use Flutter 3.10.5
 
 ## Getting Started 🚀
 
+This project use build_runner use the following commands:
+
+```sh
+# Run build runner
+$ flutter packages pub run build_runner build --delete-conflicting-outputs
+```
+
 This project contains 3 flavors:
 
 - development
