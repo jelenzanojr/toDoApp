@@ -1,0 +1,18 @@
+include: package:very_good_analysis/analysis_options.5.1.0.yaml
+linter:
+  rules:
+    public_member_api_docs: false
+analyzer:
+  language:
+    strict-raw-types: false
+    strict-inference: false
+    strict-casts: false
+  errors:
+    dead_code: info
+    unused_field: info
+    unused_local_variable: info
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+    - "**/dependencies.config.dart"
+    - bricks/**

@@ -1,0 +1,28 @@
+{
+    "@@locale": "en",
+    "appName": "ToDo App",
+    "networkError": "Error de red",
+    "serverError": "Error del servidor",
+    "accessTokenError": "Error al obtener token de acceso",
+    "unknownError": "Error desconocido",
+    "unauthorizedError": "Error de autorización",
+    "notFoundError": "No se encuentra el recurso solicitado",
+    "resourceForbidden": "403 Forbidden",
+    "search": "Buscar",    
+    "myDirections":"Mis direcciones",
+    "productReview":"Productos revisados",
+    "productNotReview":"Productos por revisar",
+    "errorLoginTimeOut":"Expiró la sesión",
+    "errorWhenSearchingProducts":"Error al buscar productos",   
+    "notProducts":"No hay productos para mostrar",
+    "approve":"Aprobado",
+    "notApprove":"Rechazado",
+    "errorToLoad":"Error al cargar",
+    "quantity":"Cantidad",
+    "productDetail":"Detalles del producto",
+    "attention":"Atención",
+    "deleteProduct":"Desea eliminar un producto",
+    "accept":"Aceptar",
+    "cancel":"Cancelar"
+
+}
